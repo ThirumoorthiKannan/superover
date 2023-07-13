@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVwvjQahsiGWhookaCzESPJS7u9RtnN0rzbqFYUejw6ILzhXl7O3bo-nU8q2XPkLY0ldHsDSjJBVSP7zg4ComKhB_mMO6LpCBgtZgr4mUyPGV9mQLKX-oMs8-D3DbLHfUoAQOsxXEiUV1H0uCz7aDTzaJUKR_LhMLYTDdVV5gZO5DRJUdDkVJ8pddX/s1600/CSK-vs-MI-49th-Match-IPL-2023-Squad-Timings.jpg);
+    flex-wrap: wrap;
+    background-size: cover;
+}
+
+
+.team
+{
+    height: 200px;
+    width: 40%;
+    padding: 100px;
+    border-color: red;
+    border-style: dotted;
+}
+
+#csk
+{
+    background-image: url(https://c.ndtvimg.com/2023-07/4rd70g9g_ms-dhoni-csk-bcci_625x300_11_July_23.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605);
+    background-size: cover;
+}
+
+.team{
+    height: 200px;
+    width: 40%;
+    padding: 20px;
+    margin-right: 20px;
+    float: left;
+   
+}
+
+#mi
+{
+    background-image: url(https://static.toiimg.com/photo/msid-91733603/91733603.jpg);
+    border-color: blue;
+    border-style: dotted;
+    background-size: cover;
+}
+
+button{
+    width: 500px;
+    font-size: 32px;
+    padding: 100px;
+    margin-top: 50px;
+    background-color: darkgreen;
+    color: white;
+}
+
+.winner{
+    background-color:white;
+    color:greenyellow;
+}
